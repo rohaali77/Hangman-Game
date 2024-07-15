@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1515295282 source:c:\users\hp\downloads\myhangman game\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
